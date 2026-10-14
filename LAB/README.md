@@ -1,1 +1,1 @@
-This folder ia for Artificial Intelligence Lab Programs
+This folder is for Artificial Intelligence Lab Programs
